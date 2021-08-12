@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-#version flutter  sdk 2.2.1
+#version flutter  sdk 1.25.0-8.0.pre
